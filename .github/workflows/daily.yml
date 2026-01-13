@@ -2,7 +2,7 @@ name: Scraper STW V-Bucks Diario
 
 on:
   schedule:
-    - cron: "1 0 * * *"
+    - cron: "5 22 * * *"
   workflow_dispatch:
 
 jobs:
